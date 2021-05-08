@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: p0d010d
+Class-Path: jackson-databind-2.11.1.jar jackson-annotations-2.11.1.jar
+  jackson-core-2.11.1.jar
+Build-Jdk: 1.8.0_221
+Created-By: Maven Integration for Eclipse
+Main-Class: com.partha.vaccine.Driver
+

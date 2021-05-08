@@ -1,0 +1,6 @@
+com/partha/vaccine/ScheduledTask.class
+com/partha/vaccine/Driver.class
+com/partha/vaccine/pojo/Sessions.class
+com/partha/vaccine/propreader/PropertyReader.class
+com/partha/vaccine/pojo/CenterResponse.class
+com/partha/vaccine/Http.class
